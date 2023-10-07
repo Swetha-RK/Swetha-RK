@@ -5,5 +5,5 @@
 📫 How to reach me: You can reach me via email at swetha.dataanalyst@gmail.com.
 
  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SwethaRK)](https://github.com/SwethaRk/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SwethaRK)](https://github.com/anuraghazra/github-readme-stats)
 
