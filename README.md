@@ -1,5 +1,1 @@
- Hi,I'm Swetha👋
-🔭 I’m interested in Data Analysis and Data Visualization
-🌱 I’m currently learning Data Analysis techniques, SQL, and data visualization tools
-👯 I’m looking to collaborate on projects related to data analysis and visualization
-📫 How to reach me: You can reach me via email at swetha.dataanalyst@gmail.com.
+ Hi,I'm Swetha Rajkumar and I do data analysis and data visualization even building models.I really enjoy learning technics like SQL,Statistics,Data Preprocessing and Machine Learning like Scikitlearn,NLP etc.,I also enjoy designing interactive Dashboards and Stories about data.👯 I’m looking to collaborate on projects related to data analysis and visualizationYou can reach me by mail swetha.dataanalyst@gmail.com or www.linkedin.com/in/swetha-r-144013168
